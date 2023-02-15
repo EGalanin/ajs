@@ -1,0 +1,19 @@
+{
+  "name": "@egalanin/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EGalanin/ajs.git"
+  },
+  "author": "Galanin Evgeniy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EGalanin/ajs/issues"
+  },
+  "homepage": "https://github.com/EGalanin/ajs#readme"
+}
